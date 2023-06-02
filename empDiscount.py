@@ -1,7 +1,4 @@
-# COMP2152 Assignment 01
 # Made by Ali Al Aoraebi
-# Student number: 101386021
-# Lab Instructor: Michael Murphy
 # Youtube Video: https://youtu.be/KTPmdd4gWAw
 
 def print_menu():
